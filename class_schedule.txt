@@ -15,7 +15,13 @@ Team member 1
 
 
 Team member 2
-
+Name: Brian Luy
+Per 1: Physiology, Rm 313
+Per 2: ERWC, Rm 404
+Per 3: Statistics, Rm 107
+Per 4: AP Comp Sci, Rm B13
+Per 5: Government, Rm B1
+Per 6: Ceramics, Rm 410
 
 
 Team member 3
