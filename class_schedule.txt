@@ -11,12 +11,12 @@ Per 5: Digital Electronics, Rm B12
 Per 6: AP Comp Sci, Rm B12
 
 Team member 1
-Per 1: Pre-Cal 
-Per 2: P.E.
-Per 3: Honors American Lit
-Per 4: AP Computer Science
-Per 5: Chemistry 
-Per 6: American History
+Per 1: Pre Cal
+Per 2: PE
+Per 3: English
+Per 4: Computer Science
+Per 5: Chemistry
+per 6: Histroy
 
 
 Team member 2
